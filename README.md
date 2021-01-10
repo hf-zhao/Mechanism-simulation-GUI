@@ -50,7 +50,7 @@
 
 ##   1、以下是本系统的启动界面和软件图标
 
-| ![img](README.assets/clip_image002.jpg) | ![img](README.assets/clip_image003.png) |
+| ![img](https://github.com/demons321/Mechanism-simulation-GUI/blob/main/README.assets/clip_image002.jpg) | ![img](README.assets/clip_image003.png) |
 | :-------------------------------------: | :-------------------------------------: |
 |                                         |                                         |
 
