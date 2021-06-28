@@ -16,15 +16,15 @@
 
 ### 1、以下是本系统的启动界面和软件图标
 
-| ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg) | <img src="file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png" alt="img" style="zoom: 67%;" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](README.assets/image-20210628232827465.png) | ![image-20210628232832603](README.assets/image-20210628232832603.png) |
+| :--------------------------------------------: | :----------------------------------------------------------: |
 
  <center>图1-1 启动界面及软件图标</center>
 
 ###    2、以下是本系统的主窗口和子窗口界面
 
-| ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![image-20210628232847111](README.assets/image-20210628232847111.png) | ![](README.assets/image-20210628232923618.png) | <img src="README.assets/image-20210628232928599.png" style="zoom:150%;" /> |
+| :----------------------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------------: |
 
 <center>图1-2 主窗口及子窗口环境</center>
 
@@ -38,7 +38,7 @@
 
  
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![](README.assets/image-20210628233002049.png)
 
 <center>图2-1 主窗口界面</center>
 
@@ -48,7 +48,7 @@
 
 #### **1、** **参数列表框直接修改数值**
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](README.assets/image-20210628233012543.png)
 
 <center>图2-2 参数数值输入<center>
 
@@ -58,8 +58,8 @@
 
 根据左下角的操作提示进行操作，同时右下角将实时显示光标坐标，辅助绘图。
 
-| ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](README.assets/image-20210628233023108.png) | ![](README.assets/image-20210628233030833.png) |
+| :--------------------------------------------: | :--------------------------------------------: |
 
 <center>图2-3 图形绘制子窗口
 
@@ -69,8 +69,8 @@
 
  
 
-| ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](README.assets/image-20210628233039089.png) | ![](README.assets/image-20210628233044750.png) |
+| :--------------------------------------------: | :--------------------------------------------: |
 
 <center>图2-4 Mat数据导入
 
@@ -80,7 +80,7 @@
 
 ​       点击主窗口下的“开始”按键，仿真开启，同时右下角显示Tips操作。仿真运动开启后，选择“运动仿真”一栏，观察运动动画，下方同时实时显示数据变化。
 
-<img src="file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg" alt="img" style="zoom:150%;" />
+![image-20210628233053550](README.assets/image-20210628233053550.png)
 
 <center>图2-5 运动仿真
 
